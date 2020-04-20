@@ -45,7 +45,7 @@ void Start()
 
 	//Formatting still needs work :(
 	cout << setfill('-') << setw(80) << "-";
-	cout << "\n\nDecision Tree Adventure" << "\n\n\n\nBy: Christian Caparroso, Benthany Tooley, Garret Weitz, and Ben Northroup";
+	cout << "\n\nDecision Tree Adventure" << "\n\n\n\nBy: Christian Caparroso, Bethany Tooley, Garret Weitz, and Ben Northroup";
 	cout << "\n\n\nPress Enter to Start.\n\n";
 	cout << setfill('-') << setw(80) << "-" << endl;
 
